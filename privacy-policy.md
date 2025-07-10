@@ -1,6 +1,6 @@
 # Privacy Policy for Screen Olympics
 
-**Last Updated: January 2025**
+**Last Updated: July 2025**
 
 ## Overview
 
