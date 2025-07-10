@@ -66,7 +66,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy or the app's privacy practices, please contact us at:
 
-**Email:** screen-olympics@icloud.com
+**Email:** screen_olympics@icloud.com
 
 ## Summary
 
