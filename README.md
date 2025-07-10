@@ -26,7 +26,7 @@ Currently, all data is stored locally on your device. We're considering cloud ba
 
 ## Contact
 
-**Email:** screen-olympics@icloud.com
+**Email:** screen_olympics@icloud.com
 
 ## About
 
