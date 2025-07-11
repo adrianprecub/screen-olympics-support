@@ -16,6 +16,8 @@ Screen Olympics ("we", "our", or "the app") is committed to protecting the priva
 - ✅ No information is sent to external servers
 - ✅ No user accounts are required
 - ✅ No internet connection is required
+- ✅ No third-party analytics
+- ✅ No third-party advertising
 
 ## Data Storage
 
