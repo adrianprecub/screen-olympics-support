@@ -12,6 +12,7 @@ Screen Olympics ("we", "our", or "the app") is committed to protecting the priva
 
 ### What This Means:
 - ✅ No personal data is collected
+- ✅ No device data is collected
 - ✅ No usage analytics are tracked
 - ✅ No information is sent to external servers
 - ✅ No user accounts are required
